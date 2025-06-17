@@ -1,0 +1,278 @@
+price,min_price,max_price,owner_name,ownership_type,locality,sqftprice,prop_type,city,carpet_area,carpet_area_unit,covered_area,covered_area_unit
+4200000.0,3950000,4200000,Madhavi,Freehold,Rajopadhye Nagar,5060.0,Apartment,"Kolhapur, Maharashtra",650,Sq-ft,830,Sq-ft
+18800000.0,17300000,18800000,vruushali bagade,,,7520.0,Villa,"Kolhapur, Maharashtra",,,2500,Sq-ft
+8600000.0,8000000,8600000,Siddharth Waze,Co-operative Society,Karande Mala,3583.0,Penthouse,"Kolhapur, Maharashtra",1800,Sq-ft,2400,Sq-ft
+4500000.0,4140000,4500000,Devendra Yashvant Nazare,Freehold,Phulewadi,3650.0,Residential House,"Kolhapur, Maharashtra",,,1233,Sq-ft
+6200000.0,5830000,6200000,Sourabh,Freehold,,6139.0,Apartment,"Kolhapur, Maharashtra",850,Sq-ft,1010,Sq-ft
+4300000.0,4300000,4640000,Swaroop,,,,Apartment,"Kolhapur, Maharashtra",860,Sq-ft,,
+3401000.0,3401000,3610000,Kumbhar Arun,Freehold,,4316.0,Apartment,"Kolhapur, Maharashtra",668,Sq-ft,788,Sq-ft
+3200000.0,2910000,3200000,Rohit,,Kasaba Bawada,4706.0,Apartment,"Kolhapur, Maharashtra",680,Sq-ft,680,Sq-ft
+3400000.0,3090000,3400000,Sanjay Powar,,,3291.0,Apartment,"Kolhapur, Maharashtra",,,1033,Sq-ft
+1550000.0,1550000,1710000,Altaf Thodage,Freehold,Uchgaon,3150.0,Apartment,"Kolhapur, Maharashtra",450,Sq-ft,492,Sq-ft
+4000000.0,3640000,4000000,harshwardhansinh,,Rankala,7168.0,Apartment,"Kolhapur, Maharashtra",,,558,Sq-ft
+2800000.0,2600000,2800000,Ashish Khadye,Freehold,,4308.0,Apartment,"Kolhapur, Maharashtra",500,Sq-ft,650,Sq-ft
+5500000.0,5500000,5830000,dipali Patil,Co-operative Society,Phulewadi,5000.0,Residential House,"Kolhapur, Maharashtra",1045,Sq-ft,1100,Sq-ft
+6000000.0,6000000,6480000,Aditya,Freehold,Ujalaiwadi,3750.0,Residential House,"Kolhapur, Maharashtra",,,1600,Sq-ft
+3200000.0,3200000,3420000,Narendra Joshi,Freehold,Uchgaon,2783.0,Apartment,"Kolhapur, Maharashtra",950,Sq-ft,1150,Sq-ft
+3200000.0,2980000,3200000,nitin,Freehold,,4324.0,Apartment,"Kolhapur, Maharashtra",570,Sq-ft,740,Sq-ft
+11000000.0,11000000,11700000,Firoj Shaikh,Freehold,Hatkanangale,4000.0,Villa,"Kolhapur, Maharashtra",,,2750,Sq-ft
+3600000.0,3310000,3600000,Varad khot,,Kandalgaon,,Residential House,"Kolhapur, Maharashtra",700,Sq-ft,,
+3100000.0,3100000,3320000,Ajit Narahari Pednekar,,Puikhadi,3647.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,850,Sq-ft
+12000000.0,10800000,12000000,Airtel WhatsApp,,,6000.0,Residential House,"Kolhapur, Maharashtra",1600,Sq-ft,2000,Sq-ft
+230000.0,230000,248000,Manoj Sawant Sawant,Freehold,Kalamba,418.0,Apartment,"Kolhapur, Maharashtra",471,Sq-ft,550,Sq-ft
+5400000.0,5020000,5400000,Yashwant Karkare,,Rajarampuri,4754.0,Apartment,"Kolhapur, Maharashtra",,,1136,Sq-ft
+7800000.0,7020000,7800000,Sneha,,,6306.0,Apartment,"Kolhapur, Maharashtra",,,1237,Sq-ft
+6500000.0,5850000,6500000,HEMANT MANOJ,Freehold,Kasaba Bawada,7831.0,Residential House,"Kolhapur, Maharashtra",700,Sq-ft,830,Sq-ft
+2200000.0,2200000,2420000,Rushikesh Killedar,Freehold,Kaneri,,Villa,"Kolhapur, Maharashtra",660,Sq-ft,,
+5700000.0,5300000,5700000,Pankaj Mulik,Freehold,Sane Guruji Vasahat,4750.0,Residential House,"Kolhapur, Maharashtra",900,Sq-ft,1200,Sq-ft
+4000000.0,4000000,4240000,Sayali Rane,,Chambukhadi,,Apartment,"Kolhapur, Maharashtra",1000,Sq-ft,,
+3400000.0,3160000,3400000,Bhumi Sharma,,,4370.0,Apartment,"Kolhapur, Maharashtra",598,Sq-ft,778,Sq-ft
+3400000.0,3200000,3400000,UDAY SUTAR,,Pachgaon,3680.0,Residential House,"Kolhapur, Maharashtra",,,924,Sq-ft
+2200000.0,2020000,2200000,Ajinkya Rasal,Freehold,Sutar Mala,5500.0,Apartment,"Kolhapur, Maharashtra",450,Sq-ft,400,Sq-ft
+9000000.0,8280000,9000000,Bhooshan Jadhav,Freehold,,5625.0,Residential House,"Kolhapur, Maharashtra",875,Sq-ft,1600,Sq-ft
+5000000.0,4700000,5000000,vishal,,Gokul Shirgaon MIDC,3333.0,Residential House,"Kolhapur, Maharashtra",,,1500,Sq-ft
+31100000.0,31100000,33300000,Ivaanka,,Sykes Extension,5655.0,Apartment,"Kolhapur, Maharashtra",,,5500,Sq-ft
+3200000.0,3200000,3420000,Sagar sharma,,Kasaba,4267.0,Apartment,"Kolhapur, Maharashtra",,,750,Sq-ft
+5000000.0,5000000,5400000,Kanwaljeet,,Shivaji Park,1000.0,Apartment,"Kolhapur, Maharashtra",920,Sq-ft,5000,Sq-ft
+7000000.0,7000000,7420000,Jadhav D B,,Raman Mala,4667.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,1500,Sq-ft
+4050000.0,3690000,4050000,Pritam,,,4091.0,Apartment,"Kolhapur, Maharashtra",,,990,Sq-ft
+3450000.0,3240000,3450000,Arun,Freehold,Sane Guruji Vasahat,4378.0,Apartment,"Kolhapur, Maharashtra",650,Sq-ft,788,Sq-ft
+3500000.0,3500000,3820000,Kamali Mani,,Shivaji Peth,5385.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,650,Sq-ft
+3000000.0,3000000,3180000,Sago Builder,,Shingnapur MPL Naka,3448.0,Residential House,"Kolhapur, Maharashtra",850,Sq-ft,,
+9900000.0,9900000,10790000,Sunil Shinde,,Rajendra Nagar,5323.0,Residential House,"Kolhapur, Maharashtra",1600,Sq-ft,1860,Sq-ft
+4800000.0,4800000,5280000,Kannan,,New Palace,,Residential House,"Kolhapur, Maharashtra",900,Sq-ft,,
+8500000.0,8500000,9270000,Sanjay B,Freehold,Bapat Camp,6058.0,Apartment,"Kolhapur, Maharashtra",1079,Sq-ft,1403,Sq-ft
+4500000.0,4500000,4860000,Swapnil Shinde,,Balinga,3600.0,Residential House,"Kolhapur, Maharashtra",630,Sq-ft,1250,Sq-ft
+4500000.0,4050000,4500000,Sarvesh Rajurikar,Freehold,Sane Guruji Vasahat,5196.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,866,Sq-ft
+7500000.0,7500000,8180000,Rohan Bambulkar,,Rajarampuri,6250.0,Apartment,"Kolhapur, Maharashtra",,,1200,Sq-ft
+11500000.0,10500000,11500000,Appaso Parit,Freehold,Kadamwadi,6053.0,Apartment,"Kolhapur, Maharashtra",,,1900,Sq-ft
+7700000.0,7010000,7700000,Ninad,Freehold,Nagala Park,6525.0,Apartment,"Kolhapur, Maharashtra",900,Sq-ft,1180,Sq-ft
+8500000.0,8500000,9180000,Ahana patel,,Laxmipuri,7083.0,Residential House,"Kolhapur, Maharashtra",1200,Sq-ft,1200,Sq-ft
+5990000.0,5990000,6590000,Rutvick Pedamkar,,Kadamwadi,4792.0,Apartment,"Kolhapur, Maharashtra",1250,Sq-ft,1250,Sq-ft
+4800000.0,4800000,5090000,MagicBricks User,,,1920.0,Residential House,"Kolhapur, Maharashtra",,,2500,Sq-ft
+8800000.0,8010000,8800000,Yogesh,Freehold,Hari Om Nagar,5867.0,Residential House,"Kolhapur, Maharashtra",1500,Sq-ft,1500,Sq-ft
+7500000.0,6980000,7500000,Asmita Gore,,Rankala,7500.0,Apartment,"Kolhapur, Maharashtra",,,1000,Sq-ft
+3100000.0,3100000,3350000,SONIYA KAMTE,,Ichalkaranji,3100.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,1000,Sq-ft
+4200000.0,3780000,4200000,Prajwal More,Freehold,,3500.0,Residential House,"Kolhapur, Maharashtra",550,Sq-ft,1200,Sq-ft
+2200000.0,2050000,2200000,Mukhdun,,Kanerkar Nagar,3964.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,555,Sq-ft
+9000000.0,8190000,9000000,Sangeeta Ratnesh Nangia,Freehold,Nagala Park,5455.0,Apartment,"Kolhapur, Maharashtra",1412,Sq-ft,1650,Sq-ft
+5500000.0,5500000,5830000,Naveen,,Kadamwadi,5500.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,1000,Sq-ft
+7000000.0,6440000,7000000,yatin,,Shahupuri,6087.0,Apartment,"Kolhapur, Maharashtra",,,1150,Sq-ft
+7000000.0,7000000,7630000,Abhijit Desai,Freehold,,5385.0,Apartment,"Kolhapur, Maharashtra",1100,Sq-ft,1300,Sq-ft
+7000000.0,7000000,7490000,Kelvin Patel,,Kadamwadi,9333.0,Residential House,"Kolhapur, Maharashtra",,,750,Sq-ft
+20000000.0,20000000,21400000,Sanjay,,Shastri Nagar,5556.0,Residential House,"Kolhapur, Maharashtra",,,3600,Sq-ft
+5000000.0,5000000,5400000,Rajendra,,Rajendra Nagar,4854.0,Apartment,"Kolhapur, Maharashtra",,,1030,Sq-ft
+6500000.0,6500000,6890000,kelvin,,Kadamwadi,4815.0,Residential House,"Kolhapur, Maharashtra",,,1350,Sq-ft
+4200000.0,4200000,4620000,Ninad Degaonkar,,Shivaji Peth,5385.0,Apartment,"Kolhapur, Maharashtra",,,780,Sq-ft
+7800000.0,7800000,8270000,MDalvi.,Co-operative Society,Laxminarayan Nagar,,Apartment,"Kolhapur, Maharashtra",1350,Sq-ft,,
+8000000.0,8000000,8640000,purushottam,,Ichalkarnji,2667.0,Residential House,"Kolhapur, Maharashtra",,,3000,Sq-ft
+5500000.0,5170000,5500000,Sagar Bhosale,,Jawahar Nagar,5789.0,Residential House,"Kolhapur, Maharashtra",,,950,Sq-ft
+3200000.0,3010000,3200000,JayantShinde,Freehold,Kagal,2560.0,Residential House,"Kolhapur, Maharashtra",1000,Sq-ft,1250,Sq-ft
+6300000.0,5730000,6300000,Arvind,Co-operative Society,,6128.0,Apartment,"Kolhapur, Maharashtra",800,Sq-ft,1028,Sq-ft
+5000000.0,4500000,5000000,Jaya kuchkorvi,,Kaneri,3125.0,Residential House,"Kolhapur, Maharashtra",,,1600,Sq-ft
+1500000.0,1380000,1500000,Irshad,,,3000.0,Apartment,"Kolhapur, Maharashtra",,,500,Sq-ft
+16500000.0,16500000,17500000,sanjay patil,,Sane Guruji Vasahat,6875.0,Villa,"Kolhapur, Maharashtra",,,2400,Sq-ft
+12500000.0,12500000,13800000,Prasanna,,Phulewadi,6944.0,Residential House,"Kolhapur, Maharashtra",,,1800,Sq-ft
+4500000.0,4140000,4500000,sagar tondale,,,5625.0,Residential House,"Kolhapur, Maharashtra",,,800,Sq-ft
+3800000.0,3420000,3800000,Ansar,Freehold,Ring Road,3455.0,Residential House,"Kolhapur, Maharashtra",600,Sq-ft,1100,Sq-ft
+6000000.0,5400000,6000000,hrishikeshpkokak,Freehold,Panhala,4615.0,Residential House,"Kolhapur, Maharashtra",1920,Sq-ft,1300,Sq-ft
+12500000.0,12500000,13500000,Annasaheb Hirikude,,Hatkanangale,2500.0,Residential House,"Kolhapur, Maharashtra",,,5000,Sq-ft
+5700000.0,5190000,5700000,Maruti Chavan,Freehold,Rankala,6333.0,Apartment,"Kolhapur, Maharashtra",724,Sq-ft,900,Sq-ft
+11500000.0,10600000,11500000,Majid Bidiwale,,Tarabai Park,8519.0,Apartment,"Kolhapur, Maharashtra",1000,Sq-ft,1350,Sq-ft
+16000000.0,15000000,16000000,Shubham ,Freehold,Temblaiwadi,8000.0,Residential House,"Kolhapur, Maharashtra",,,2000,Sq-ft
+3100000.0,3100000,3290000,Dilip Chougale,,Shingnapur MPL Naka,3924.0,Residential House,"Kolhapur, Maharashtra",,,790,Sq-ft
+6000000.0,6000000,6540000,More,,Pratibhanagar,,Apartment,"Kolhapur, Maharashtra",1100,Sq-ft,,
+3500000.0,3150000,3500000,savli,,,5419.0,Apartment,"Kolhapur, Maharashtra",58,Sq-m,60,Sq-m
+3500000.0,3500000,3750000,jaywant,,Uchgaon,6364.0,Residential House,"Kolhapur, Maharashtra",,,550,Sq-ft
+4000000.0,4000000,4320000,suresh,,,3810.0,Apartment,"Kolhapur, Delhi NCR",,,1050,Sq-ft
+3000000.0,2730000,3000000,amol,,Gokul Shirgaon MIDC,2727.0,Residential House,"Kolhapur, Maharashtra",800,Sq-ft,1100,Sq-ft
+3000000.0,2700000,3000000,Daniel sawant,,Nana Patil Nagar,,Apartment,"Kolhapur, Maharashtra",700,Sq-ft,,
+1800000.0,1800000,1960000,Vinit Deepak Name,,Sangrul,2769.0,Apartment,"Kolhapur, Maharashtra",650,Sq-ft,650,Sq-ft
+2800000.0,2800000,3020000,Manish,,Ring Road,5600.0,Residential House,"Kolhapur, Maharashtra",,,500,Sq-ft
+2500000.0,2250000,2500000,Nagraj Kodlekere,Co-operative Society,Shingnapur MPL Naka,3369.0,Apartment,"Kolhapur, Maharashtra",,,742,Sq-ft
+6000000.0,5640000,6000000,Jay,Freehold,Morewadi,4348.0,Residential House,"Kolhapur, Maharashtra",1200,Sq-ft,1380,Sq-ft
+7500000.0,7500000,8030000,Kedar Purohit,Freehold,Gandhinagar,6303.0,Residential House,"Kolhapur, Maharashtra",1100,Sq-ft,1190,Sq-ft
+2650000.0,2390000,2650000,Shubhangi,,Deokar Panand,5955.0,Apartment,"Kolhapur, Maharashtra",,,445,Sq-ft
+3200000.0,3010000,3200000,Shardul Rukadikar,,Sane Guruji Vasahat,4384.0,Apartment,"Kolhapur, Maharashtra",595,Sq-ft,730,Sq-ft
+7500000.0,7050000,7500000,umesh,Freehold,Ring Road,5000.0,Residential House,"Kolhapur, Maharashtra",1300,Sq-ft,1500,Sq-ft
+3000000.0,3000000,3240000,Darshan Gandhi,,Sarnobatwadi,3000.0,Residential House,"Kolhapur, Maharashtra",,,1000,Sq-ft
+2700000.0,2480000,2700000,Zakir Matwal,,Ichalkarnji,4154.0,Residential House,"Kolhapur, Maharashtra",650,Sq-ft,650,Sq-ft
+8000000.0,8000000,8720000,devendra bamb,,Bapat Camp,5333.0,Apartment,"Kolhapur, Maharashtra",,,1500,Sq-ft
+6500000.0,6500000,6960000,Gayatri Patil,Freehold,Laxminarayan Nagar,5417.0,Apartment,"Kolhapur, Maharashtra",1000,Sq-ft,1200,Sq-ft
+11000000.0,9900000,11000000,Mayur Dharme,Co-operative Society,Raman Mala,5500.0,Villa,"Kolhapur, Maharashtra",1600,Sq-ft,2000,Sq-ft
+2000000.0,2000000,2180000,Sagar Desai,,Shiroli MIDC,3175.0,Apartment,"Kolhapur, Maharashtra",600,Sq-ft,630,Sq-ft
+4200000.0,4200000,4540000,Deepak,,Ichalkarnji,1750.0,Residential House,"Kolhapur, Maharashtra",2000,Sq-ft,2400,Sq-ft
+4500000.0,4230000,4500000,Sachin Jangam,,R K Nagar,3982.0,Residential House,"Kolhapur, Maharashtra",,,1130,Sq-ft
+8800000.0,8180000,8800000,Seema,Co-operative Society,Nagala Park,4632.0,Residential House,"Kolhapur, Maharashtra",1600,Sq-ft,1900,Sq-ft
+3900000.0,3900000,4130000,Varsharani Mundase,,Mangalwar Peth,4105.0,Apartment,"Kolhapur, Maharashtra",850,Sq-ft,950,Sq-ft
+3100000.0,2820000,3100000,chandrakant bamane,,Radhanagari,3483.0,Apartment,"Kolhapur, Maharashtra",860,Sq-ft,890,Sq-ft
+15000000.0,14100000,15000000,archana,,Takala,10000.0,Residential House,"Kolhapur, Maharashtra",,,1500,Sq-ft
+1500000.0,1500000,1650000,amar,Freehold,Ichalkaranji,3000.0,Residential House,"Kolhapur, Maharashtra",,,500,Sq-ft
+9200000.0,9200000,10120000,Rachit Kumar,Freehold,Rankala,5610.0,Apartment,"Kolhapur, Maharashtra",,,1640,Sq-ft
+5000000.0,5000000,5300000,OptionalProfile,,Laxmipuri,5556.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,900,Sq-ft
+4100000.0,4100000,4470000,Vijay,Freehold,Sane Guruji Vasahat,3565.0,Apartment,"Kolhapur, Maharashtra",1150,Sq-ft,1150,Sq-ft
+5944032.0,5944032,6360000,Santosh,,Nagala Park,,Apartment,"Kolhapur, Maharashtra",,,,
+5600000.0,5210000,5600000,Ganesh,Freehold,Kasaba Bawada,,Residential House,"Kolhapur, Maharashtra",650,Sq-ft,,
+2700000.0,2700000,2920000,satish,,,4272.0,Apartment,"Kolhapur, Maharashtra",600,Sq-ft,632,Sq-ft
+2500000.0,2300000,2500000,NIlesh,,Ujalaiwadi,5208.0,Residential House,"Kolhapur, Maharashtra",,,480,Sq-ft
+1450000.0,1350000,1450000,Azim kazi,,Kagal,4143.0,Apartment,"Kolhapur, Maharashtra",280,Sq-ft,350,Sq-ft
+6000000.0,6000000,6540000,Prakash Patil,Freehold,Kalambe Turf Thane,4850.0,Residential House,"Kolhapur, Maharashtra",800,Sq-ft,1237,Sq-ft
+5200000.0,4840000,5200000,Prashant Patil,Freehold,,4924.0,Apartment,"Kolhapur, Maharashtra",803,Sq-ft,1056,Sq-ft
+2250000.0,2250000,2450000,Atul karande,Freehold,Phulewadi,4509.0,Apartment,"Kolhapur, Maharashtra",499,Sq-ft,499,Sq-ft
+1925000.0,1925000,2060000,rajesh patil,,,3500.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,550,Sq-ft
+3300000.0,3300000,3600000,Siddheshkumar Tatyasaheb Zipare,,Kagal,4400.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,750,Sq-ft
+3000000.0,2790000,3000000,Pushp Raj,,Pachgaon,3529.0,Residential House,"Kolhapur, Maharashtra",,,850,Sq-ft
+9500000.0,8740000,9500000,Anvay  Borgaonkar,,Sane Guruji Vasahat,5758.0,Builder Floor Apartment,"Kolhapur, Maharashtra",1300,Sq-ft,1650,Sq-ft
+7200000.0,6620000,7200000,Shivesh Kumar,Freehold,,6545.0,Apartment,"Kolhapur, Maharashtra",950,Sq-ft,1100,Sq-ft
+3000000.0,2820000,3000000,MANDAR PARANJAPE,Freehold,Raigad Colony,4138.0,Apartment,"Kolhapur, Maharashtra",,,725,Sq-ft
+10000000.0,9000000,10000000,sumeet,Freehold,,8032.0,Apartment,"Kolhapur, Maharashtra",960,Sq-ft,1245,Sq-ft
+1200000.0,1100000,1200000,S S,,Shinganapur,2400.0,Residential House,"Kolhapur, Maharashtra",500,Sq-ft,500,Sq-ft
+7500000.0,7500000,8100000,santosh Darda ,,,5769.0,Residential House,"Kolhapur, Maharashtra",,,1300,Sq-ft
+15500000.0,15500000,16700000,Prashant,Freehold,Ring Road,4429.0,Villa,"Kolhapur, Maharashtra",4000,Sq-ft,3500,Sq-ft
+2000000.0,2000000,2160000,Pratik Patil,,Sarnobatwadi,3333.0,Apartment,"Kolhapur, Maharashtra",,,600,Sq-ft
+6000000.0,5400000,6000000,Hemant,,R K Nagar,5769.0,Apartment,"Kolhapur, Maharashtra",,,1040,Sq-ft
+4000000.0,3760000,4000000,Mahesh Kulkarni,Co-operative Society,Jarag nagar,4444.0,Builder Floor Apartment,"Kolhapur, Maharashtra",876,Sq-ft,900,Sq-ft
+15000000.0,15000000,16400000,sagar kale,,Uchgaon,6818.0,Residential House,"Kolhapur, Maharashtra",,,2200,Sq-ft
+11000000.0,11000000,11800000,Sachin Kumbhar,Freehold,Vikramnagar,2391.0,Residential House,"Kolhapur, Maharashtra",3600,Sq-ft,4600,Sq-ft
+8000000.0,8000000,8720000,Suryakant kulkarni,,Udgaon,5333.0,Residential House,"Kolhapur, Maharashtra",,,1500,Sq-ft
+1900000.0,1790000,1900000,Ranjit Devardekar,Freehold,Puikhadi,3167.0,Residential House,"Kolhapur, Maharashtra",,,600,Sq-ft
+8500000.0,8500000,9010000,Abhishek Gadgil,Freehold,Morewadi,9444.0,Residential House,"Kolhapur, Maharashtra",,,900,Sq-ft
+5000000.0,5000000,5500000,Prasannaraghav Deshpande,Freehold,New Palace,4941.0,Apartment,"Kolhapur, Maharashtra",,,94,Sq-m
+3000000.0,2700000,3000000,Ajay Patil,,,4615.0,Apartment,"Kolhapur, Maharashtra",,,650,Sq-ft
+28000000.0,25200000,28000000,Vishwanath Kori,,Shaniwar Peth,17500.0,Residential House,"Kolhapur, Maharashtra",,,1600,Sq-ft
+9200000.0,8460000,9200000,NILESH KIRAN BHISE,,Deokar Panand,7360.0,Residential House,"Kolhapur, Maharashtra",,,1250,Sq-ft
+12000000.0,10800000,12000000,VAIBHAV,,,6000.0,Residential House,"Kolhapur, Maharashtra",,,2000,Sq-ft
+3000000.0,3000000,3300000,Lakshman kamble,,Pratibhanagar,4286.0,Apartment,"Kolhapur, Maharashtra",,,700,Sq-ft
+5500000.0,5060000,5500000,Rhythm Sharma,Freehold,Uchgaon,5000.0,Builder Floor Apartment,"Kolhapur, Maharashtra",865,Sq-ft,1100,Sq-ft
+5500000.0,5500000,6000000,Sachin Patil,Freehold,,3929.0,Residential House,"Kolhapur, Maharashtra",1000,Sq-ft,1400,Sq-ft
+5500000.0,5500000,6050000,Rahul bhandigare,Freehold,Shivaji Peth,4583.0,Residential House,"Kolhapur, Maharashtra",,,1200,Sq-ft
+3000000.0,3000000,3210000,Dinesh Dusane,Freehold,Shivraj Colony,4808.0,Apartment,"Kolhapur, Maharashtra",,,624,Sq-ft
+320000.0,320000,339000,Apurva Dhavale,Freehold,,525.0,Apartment,"Kolhapur, Maharashtra",580,Sq-ft,610,Sq-ft
+7000000.0,6300000,7000000,Manisha,Freehold,,6579.0,Builder Floor Apartment,"Kolhapur, Maharashtra",760,Sq-ft,1064,Sq-ft
+3400000.0,3160000,3400000,Mohan,,,5000.0,Apartment,"Kolhapur, Maharashtra",,,680,Sq-ft
+2500000.0,2280000,2500000,pratik,,Sane Guruji Vasahat,,Apartment,"Kolhapur, Maharashtra",330,Sq-ft,,
+5500000.0,5010000,5500000,Pradyumna,Freehold,Sarnobatwadi,3930.0,Villa,"Kolhapur, Maharashtra",102,Sq-m,130,Sq-m
+18000000.0,16200000,18000000,Jaswanth K,Freehold,,9000.0,Residential House,"Kolhapur, Maharashtra",1850,Sq-ft,2000,Sq-ft
+3350000.0,3050000,3350000,Pranav,,Kasaba Bawada,5234.0,Apartment,"Kolhapur, Maharashtra",640,Sq-ft,640,Sq-ft
+4500000.0,4500000,4820000,Mayuresh Developers,Freehold,,4416.0,Apartment,"Kolhapur, Maharashtra",,,1019,Sq-ft
+4881111.0,4490000,4881111,hemang hemang,Freehold,Rankala,4753.0,Apartment,"Kolhapur, Maharashtra",728,Sq-ft,1027,Sq-ft
+11000000.0,11000000,12100000,Suyog Patankar,,Panhala,1294.0,Villa,"Kolhapur, Maharashtra",,,8500,Sq-ft
+7500000.0,6900000,7500000,Rushikesh Gadkari,Freehold,Kawala Naka,6073.0,Apartment,"Kolhapur, Maharashtra",,,1235,Sq-ft
+2600000.0,2600000,2860000,Mahesh Gondkar,,Bondre Nagar,3250.0,Residential House,"Kolhapur, Maharashtra",,,800,Sq-ft
+3100000.0,3100000,3350000,taiyab shaikh,,Uchgaon,3899.0,Apartment,"Kolhapur, Maharashtra",,,795,Sq-ft
+2800000.0,2520000,2800000,Jahangir Balaso Mullani,,,2800.0,Residential House,"Kolhapur, Maharashtra",,,1000,Sq-ft
+42500000.0,42500000,46800000,Amol,,,11039.0,Residential House,"Kolhapur, Maharashtra",,,3850,Sq-ft
+4000000.0,3600000,4000000,Shamal Adake,,,,Villa,"Kolhapur, Maharashtra",1200,Sq-ft,,
+7500000.0,7500000,7950000,Shrikant Zawar,Freehold,New Shahupuri,6250.0,Apartment,"Kolhapur, Maharashtra",,,1200,Sq-ft
+5500000.0,5170000,5500000,santosh,,Raigad Colony,4044.0,Residential House,"Kolhapur, Maharashtra",,,1360,Sq-ft
+6500000.0,5850000,6500000,Shrikant,Freehold,Wadi Ratnagiri,4062.0,Villa,"Kolhapur, Maharashtra",,,1600,Sq-ft
+3500000.0,3290000,3500000,Shivpratap Magdum,,Mudshingi,5000.0,Residential House,"Kolhapur, Maharashtra",,,700,Sq-ft
+2300000.0,2160000,2300000,Neha,Freehold,Ujalaiwadi,4600.0,Residential House,"Kolhapur, Maharashtra",,,500,Sq-ft
+3500000.0,3500000,3750000,Sanjayveer,Freehold,Sambhaji Nagar,3781.0,Apartment,"Kolhapur, Maharashtra",70,Sq-m,86,Sq-m
+62500000.0,58100000,62500000,Sohan Patil,Co-operative Society,Rajarampuri,12500.0,Villa,"Kolhapur, Maharashtra",4400,Sq-ft,5000,Sq-ft
+2200000.0,2020000,2200000,Madhura Gajanan,,,,Apartment,"Kolhapur, Maharashtra",750,Sq-ft,,
+4500000.0,4190000,4500000,Amar Bhadulkar,,Ujalaiwadi,3913.0,Residential House,"Kolhapur, Maharashtra",,,1150,Sq-ft
+4600000.0,4140000,4600000,omkar bhosale,Freehold,Rajendra Nagar,4466.0,Apartment,"Kolhapur, Maharashtra",715,Sq-ft,1030,Sq-ft
+5200000.0,5200000,5620000,Kalpana Desai,,Shahu Market Yard,4952.0,Apartment,"Kolhapur, Maharashtra",,,1050,Sq-ft
+6400000.0,5950000,6400000,Priyanka,,,5714.0,Apartment,"Kolhapur, Maharashtra",,,1120,Sq-ft
+2500000.0,2300000,2500000,Maya Kumbhar,,Kagal,1667.0,Residential House,"Kolhapur, Maharashtra",,,1500,Sq-ft
+3200000.0,2880000,3200000,Sulochana Raut,Freehold,Rajarampuri,6867.0,Apartment,"Kolhapur, Maharashtra",450,Sq-ft,466,Sq-ft
+6300000.0,6300000,6870000,Pravin,Freehold,,4667.0,Apartment,"Kolhapur, Maharashtra",900,Sq-ft,1350,Sq-ft
+1500000.0,1350000,1500000,Harshvardhan,Freehold,Shukrawar Pet,3750.0,Apartment,"Kolhapur, Maharashtra",400,Sq-ft,400,Sq-ft
+4700000.0,4700000,4980000,Harsh Patel,,Peth Vadgaon,2611.0,Residential House,"Kolhapur, Maharashtra",1250,Sq-ft,1800,Sq-ft
+5250000.0,4940000,5250000,Sanket,,,4626.0,Apartment,"Kolhapur, Maharashtra",,,1135,Sq-ft
+25000000.0,23500000,25000000,Suresh ,Freehold,Tarabai Park,6944.0,Builder Floor Apartment,"Kolhapur, Maharashtra",3200,Sq-ft,3600,Sq-ft
+6000000.0,6000000,6600000,Ashish,,Sykes Extension,6000.0,Apartment,"Kolhapur, Maharashtra",605,Sq-ft,1000,Sq-ft
+250000.0,250000,270000,Prajakta Jere,,Miraj,38.0,Apartment,"Kolhapur, Maharashtra",,,6500,Sq-ft
+4000000.0,3680000,4000000,Sachin Mahalle,,Hanuman Nagar,5044.0,Apartment,"Kolhapur, Maharashtra",,,793,Sq-ft
+4500000.0,4190000,4500000,siddhesh salokhe,,Rajarampuri,5625.0,Apartment,"Kolhapur, Maharashtra",,,800,Sq-ft
+5500000.0,5010000,5500000,Dattatraya Shembekar,,Shivaji Park,4583.0,Apartment,"Kolhapur, Maharashtra",900,Sq-ft,1200,Sq-ft
+5000000.0,5000000,5300000,Nihal ,Freehold,Karande Mala,4310.0,Apartment,"Kolhapur, Maharashtra",,,1160,Sq-ft
+4950000.0,4950000,5300000,Hemang Shah,Freehold,Nagala Park,4783.0,Apartment,"Kolhapur, Maharashtra",768,Sq-ft,1035,Sq-ft
+2500000.0,2500000,2650000,Sagar Jadhav,,Kasaba,2381.0,Residential House,"Kolhapur, Maharashtra",650,Sq-ft,1050,Sq-ft
+3200000.0,3200000,3420000,SAHIB SINGH,,Shingnapur MPL Naka,4267.0,Residential House,"Kolhapur, Maharashtra",,,750,Sq-ft
+3200000.0,3200000,3460000,Akash Dubey,,Hari Om Nagar,3951.0,Residential House,"Kolhapur, Maharashtra",,,810,Sq-ft
+5000000.0,5000000,5450000,akash jaiswal,,Hari Om Nagar,3846.0,Residential House,"Kolhapur, Maharashtra",900,Sq-ft,1300,Sq-ft
+6125000.0,6125000,6620000,kamaldeep,,Morewadi,3500.0,Residential House,"Kolhapur, Maharashtra",,,1750,Sq-ft
+5500000.0,5500000,5940000,kana,,Samrat Nagar,4297.0,Apartment,"Kolhapur, Maharashtra",,Sq-ft,1280,Sq-ft
+11000000.0,11000000,11900000,Kanishk,,Samrat Nagar,6769.0,Residential House,"Kolhapur, Maharashtra",,,1625,Sq-ft
+2500000.0,2500000,2700000,Kannan,,New Palace,3968.0,Apartment,"Kolhapur, Maharashtra",,,630,Sq-ft
+2200000.0,2200000,2380000,Sahal,,Shingnapur MPL Naka,2750.0,Residential House,"Kolhapur, Maharashtra",430,Sq-ft,800,Sq-ft
+3400000.0,3400000,3670000,jolly,,Hanuman Nagar,4789.0,Apartment,"Kolhapur, Maharashtra",550,Sq-ft,710,Sq-ft
+3000000.0,3000000,3210000,joseph,,Hanuman Nagar,,Apartment,"Kolhapur, Maharashtra",565,Sq-ft,,
+2600000.0,2600000,2830000,kamlesh,,Shivaji Peth,4000.0,Apartment,"Kolhapur, Maharashtra",650,Sq-ft,650,Sq-ft
+7500000.0,7050000,7500000,Pravin,,Nana Patil Nagar,4167.0,Residential House,"Kolhapur, Maharashtra",,,1800,Sq-ft
+6200000.0,6200000,6820000,joju mathew,,Hanuman Nagar,5789.0,Apartment,"Kolhapur, Maharashtra",,,1071,Sq-ft
+3600000.0,3600000,3920000,Kamarudeen,,Shivaji Peth,4756.0,Apartment,"Kolhapur, Maharashtra",,,757,Sq-ft
+4200000.0,4200000,4490000,Kansal Niraj,,Shivaji Park,,Apartment,"Kolhapur, Maharashtra",925,Sq-ft,,
+5500000.0,5500000,6000000,KANWAR SINGH,,Shivaji Park,5140.0,Apartment,"Kolhapur, Maharashtra",,,1070,Sq-ft
+5000000.0,5000000,5450000,Deepali,Co-operative Society,Ring Road,4545.0,Villa,"Kolhapur, Maharashtra",,,1100,Sq-ft
+2000000.0,2000000,2160000,Sanjay Jaysingrao katkar,,Jarag nagar,4000.0,Apartment,"Kolhapur, Maharashtra",,,500,Sq-ft
+5500000.0,5500000,5830000,Pragnesh Hamlai,Freehold,Takala,9167.0,Apartment,"Kolhapur, Maharashtra",,,600,Sq-ft
+6000000.0,6000000,6540000,akash,,Tapowan,6000.0,Residential House,"Kolhapur, Maharashtra",,,1000,Sq-ft
+2350000.0,2350000,2510000,AH Khan,,Tapowan,3672.0,Apartment,"Kolhapur, Maharashtra",580,Sq-ft,640,Sq-ft
+6500000.0,6500000,7090000,jk,Freehold,Mahadwar Road,5702.0,Apartment,"Kolhapur, Maharashtra",1000,Sq-ft,1140,Sq-ft
+1600000.0,1500000,1600000,Innovative Hrishi,Freehold,Kandalgaon,2909.0,Residential House,"Kolhapur, Maharashtra",450,Sq-ft,550,Sq-ft
+9000000.0,8460000,9000000,SURvi,,Tarabai Park,,Apartment,"Kolhapur, Maharashtra",1600,Sq-ft,,
+7200000.0,7200000,7780000,Jaideep Thorat,Freehold,R K Nagar,6234.0,Residential House,"Kolhapur, Maharashtra",,,1155,Sq-ft
+7200000.0,6620000,7200000,Sagar Sagar,Freehold,Ingale Park,6545.0,Apartment,"Kolhapur, Maharashtra",850,Sq-ft,1100,Sq-ft
+6000000.0,6000000,6480000,Digvijay Mohite,Freehold,Deokar Panand,5000.0,Residential House,"Kolhapur, Maharashtra",1200,Sq-ft,1200,Sq-ft
+6160000.0,5790000,6160000,Rajesh,,Karande Mala,5600.0,Apartment,"Kolhapur, Maharashtra",,,1100,Sq-ft
+29500000.0,26600000,29500000,Tejas patil,Freehold,Tarabai Park,19332.0,Villa,"Kolhapur, Maharashtra",3926,Sq-ft,1526,Sq-ft
+3650000.0,3650000,3870000,Sina,,,4867.0,Apartment,"Kolhapur, Maharashtra",,,750,Sq-ft
+3000000.0,3000000,3300000,Sanjeet Singh,,Vashi Naka,3243.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,925,Sq-ft
+5000000.0,5000000,5400000,Utkarsh Singh,,Karande Mala,4348.0,Apartment,"Kolhapur, Maharashtra",,,1150,Sq-ft
+13000000.0,13000000,13800000,Pragya Pandey,,Karande Mala,6500.0,Penthouse,"Kolhapur, Maharashtra",,,2000,Sq-ft
+2800000.0,2800000,3050000,Mithilesh Rao,,Peth Vadgaon,3394.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,825,Sq-ft
+2700000.0,2700000,2920000,Gangaram Chavan,,Jarag nagar,3857.0,Residential House,"Kolhapur, Maharashtra",,,700,Sq-ft
+7200000.0,7200000,7630000,Naman Arora,,Rajaram Road,2400.0,Residential House,"Kolhapur, Maharashtra",,,3000,Sq-ft
+2300000.0,2300000,2480000,Gopalan,,Jarag nagar,4182.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,550,Sq-ft
+1900000.0,1900000,2010000,Arvind Kanojiya,,Gadmudshingi,3455.0,Residential House,"Kolhapur, Maharashtra",,,550,Sq-ft
+1650000.0,1650000,1750000,Deval,,Gadmudshingi,2750.0,Residential House,"Kolhapur, Maharashtra",,,600,Sq-ft
+1600000.0,1600000,1760000,Sudhir Kambli,,Gadmudshingi,3265.0,Residential House,"Kolhapur, Maharashtra",,,490,Sq-ft
+11000000.0,11000000,12000000,Varoon,,Sykes Extension,4783.0,Penthouse,"Kolhapur, Maharashtra",,,2300,Sq-ft
+2700000.0,2700000,2860000,Akash kamble ,,Hari Om Nagar,3803.0,Apartment,"Kolhapur, Maharashtra",,,710,Sq-ft
+2000000.0,2000000,2120000,joseph,,Hanuman Nagar,3883.0,Apartment,"Kolhapur, Maharashtra",,,515,Sq-ft
+2000000.0,2000000,2200000,kamal,,Gandhinagar,,Residential House,"Kolhapur, Maharashtra",,Sq-ft,,
+2800000.0,2800000,3050000,Kamal Singh Kitawat,,Morewadi,3500.0,Residential House,"Kolhapur, Maharashtra",,,800,Sq-ft
+3000000.0,3000000,3300000,kamlesh giri,,Shivaji Peth,4559.0,Apartment,"Kolhapur, Maharashtra",,,658,Sq-ft
+2000000.0,2000000,2140000,kanaiya sharma,,Samrat Nagar,3306.0,Apartment,"Kolhapur, Maharashtra",605,Sq-ft,605,Sq-ft
+6000000.0,6000000,6600000,Kanha Gupta,,Samrat Nagar,6316.0,Apartment,"Kolhapur, Maharashtra",,,950,Sq-ft
+29500000.0,29500000,32200000,Kannan,,New Palace,6233.0,Villa,"Kolhapur, Maharashtra",,,4733,Sq-ft
+420000.0,420000,458000,Kannan Boominathan,,Shivaji Park,,Apartment,"Kolhapur, Maharashtra",925,Sq-ft,,
+2400000.0,2400000,2540000,sahboob,,Shingnapur MPL Naka,2857.0,Residential House,"Kolhapur, Maharashtra",,,840,Sq-ft
+2300000.0,2300000,2480000,Sahil,,Shingnapur MPL Naka,2556.0,Residential House,"Kolhapur, Maharashtra",858,Sq-ft,900,Sq-ft
+1850000.0,1850000,2020000,Rakesh Kumar Sharma,,Wadanage,2960.0,Residential House,"Kolhapur, Maharashtra",,,625,Sq-ft
+1800000.0,1800000,1960000,Bishal Ghosh,,Wadanage,4000.0,Villa,"Kolhapur, Maharashtra",,,450,Sq-ft
+1500000.0,1500000,1650000,Nishant,,Wadanage,1875.0,Residential House,"Kolhapur, Maharashtra",,,800,Sq-ft
+2100000.0,1890000,2100000,Jighnesh N shah,,Uchgaon,3387.0,Apartment,"Kolhapur, Maharashtra",620,Sq-ft,620,Sq-ft
+4200000.0,4200000,4540000,AH Khan,,Tapowan,4330.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,970,Sq-ft
+8000000.0,8000000,8800000,Josh Edwin,,Hanuman Nagar,4000.0,Villa,"Kolhapur, Maharashtra",,,2000,Sq-ft
+5000000.0,5000000,5300000,Kamal Nayan Rai,,Morewadi,4545.0,Residential House,"Kolhapur, Maharashtra",,,1100,Sq-ft
+2700000.0,2700000,2920000,kamaraj,,Shivaji Peth,4909.0,Apartment,"Kolhapur, Maharashtra",,,550,Sq-ft
+8500000.0,8500000,9270000,Sudhagar,,Ruikar Colony,6071.0,Apartment,"Kolhapur, Maharashtra",,,1400,Sq-ft
+2800000.0,2800000,3020000,Ubaidur Rahman,,Ruikar Colony,4516.0,Apartment,"Kolhapur, Maharashtra",,,620,Sq-ft
+12500000.0,12500000,13300000,Arpita Chakraborty,,Ruikar Colony,6250.0,Villa,"Kolhapur, Maharashtra",,,2000,Sq-ft
+1300000.0,1300000,1400000,Mandar Gavankar,,Gadmudshingi,2955.0,Residential House,"Kolhapur, Maharashtra",,,440,Sq-ft
+1650000.0,1650000,1800000,Kalpesh Thakkar,,Gadmudshingi,2750.0,Residential House,"Kolhapur, Maharashtra",,,600,Sq-ft
+1600000.0,1600000,1710000,Arvind Garg,,Gadmudshingi,3265.0,Residential House,"Kolhapur, Maharashtra",,,490,Sq-ft
+,0,0,Aniruddhraje Raje Khem Sawant,,Rankala,,Residential House,"Kolhapur, Maharashtra",1000,Sq-ft,2000,Sq-ft
+,0,0,AtharvaDevelopersSales,,Uchgaon,,Apartment,"Kolhapur, Maharashtra",,,,
+,0,0,Amol ,,,,Residential House,"Kolhapur, Maharashtra",,,4000,Sq-ft
+,0,0,Pradip pradip,,,,Apartment,"Kolhapur, Maharashtra",,,750,Sq-ft
+,0,0,Swati Dublay,,,,Villa,"Kolhapur, Maharashtra",,,4000,Sq-ft
+,0,0,Pal,,Dewale,,Villa,"Kolhapur, Maharashtra",,,,
+,0,0,Uday Joshi,,Deokar Panand,,Apartment,"Kolhapur, Maharashtra",,,,
+,0,0,Pratik Vilas Ithape,,Balinga,,Residential House,"Kolhapur, Maharashtra",,,700,Sq-ft
+,0,0,Prabhanjan Mane,,Nagala Park,,Apartment,"Kolhapur, Maharashtra",,,1200,Sq-ft
+,0,0,Gayatri yarate,,Tarabai Park,,Apartment,"Kolhapur, Maharashtra",,,600,Sq-ft
+,0,0,Atul Bhatiya,,,,Apartment,"Kolhapur, Maharashtra",,,,
+,0,0,Sambhaji appaso rilekar,,,,Residential House,"Kolhapur, Maharashtra",,,530,Sq-ft
+,0,0,Harshada,,Shukrawar Pet,,Apartment,"Kolhapur, Maharashtra",,,,
+,0,0,Kshitij,,Gadmudshingi,,Villa,"Kolhapur, Maharashtra",,,,
+,0,0,Amol Sankapal,,"Mahatma Society, Kothrud",,Residential House,"Kolhapur, Maharashtra",,,1000,Sq-ft
+,0,0,vishwajeet kharade,Freehold,Deokar Panand,,Residential House,"Kolhapur, Maharashtra",,,,
+3350000.0,3020000,3350000,Kumbhar Arun,,,4251.0,Apartment,"Kolhapur, Maharashtra",,,788,Sq-ft
+10000000.0,9300000,10000000,Jadhav D B,,Raman Mala,6410.0,Builder Floor Apartment,"Kolhapur, Maharashtra",,,1560,Sq-ft
+,0,0,Pritam,,Uchgaon,,Apartment,"Kolhapur, Maharashtra",,,660,Sq-ft
+6000000.0,6000000,6600000,Jay,,Morewadi,4348.0,Residential House,"Kolhapur, Maharashtra",,,1380,Sq-ft

@@ -1,0 +1,52 @@
+import requests 
+import pickle
+import time
+import numpy as np 
+
+page = 1
+groupstart = 0
+
+
+
+prop_list = []
+
+while page<2:
+
+    url = f"https://www.magicbricks.com/mbsrp/propertySearch.html?editSearch=Y&category=S&propertyType=10002,10003,10021,10022,10001,10017&city=4274&inputListings=I&page={page}&groupstart={groupstart}&offset=0&maxOffset=2&sortBy=premiumRecent&postedSince=-1&pType=10002,10003,10021,10022,10001,10017&isNRI=N&multiLang=en"
+
+    payload = {}
+    headers = {
+    'accept': 'application/json, text/plain, */*',
+    'accept-language': 'en-US,en;q=0.9',
+    'cache-control': 'no-cache',
+    'pragma': 'no-cache',
+    'priority': 'u=1, i',
+    'referer': 'https://www.magicbricks.com/property-for-sale/residential-real-estate?proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Residential-House,Villa&Locality=&cityName=Kolhapur&category=S&parameter=rel&hideviewed=N&ListingsType=I&filterCount=3&incSrc=Y&fromSrc=homeSrc',
+    'sec-ch-ua': '"Chromium";v="137", "Not/A)Brand";v="24"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Linux"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'same-origin',
+    'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36',
+    'Cookie': 'firstInteractionCookie=F; cookieDtfirstIntr=20250617; luxuryCookie=N; uniqUserSearchId=4c5d0816e9a240c3a31c634785554cc7d217c82c_1750100588174; projectCategory=B; subPropertyTypeCookie=10002%2C10003%2C10021%2C10022%2C10001%2C10017; subPropertyType=Multistorey-Apartment%2CBuilder-Floor-Apartment%2CPenthouse%2CStudio-Apartment%2CResidential-House%2CVilla; propertyTypeCookie=Multistorey-Apartment%2CBuilder-Floor-Apartment%2CPenthouse%2CStudio-Apartment%2CResidential-House%2CVilla; cityCookie=4274; cityCode=4274; cityNameCookie=Kolhapur; propCategory=Residential; SRPSESSIONID=ZDIxN2M4MmMtZGIyZi00Zjc5LTk4NzQtOGNhNDk4YmNkNjUy; _gid=GA1.2.1494785394.1750100590; _gcl_au=1.1.8145786.1750100590; _ga=GA1.2.1528486679.1750100590; psmIds=; mbRecommendationCookies=pageType%3Dproperty%7ClistType%3DS%7CpropType%3D10002%2C10003%2C10021%2C10022%2C10001%2C10017%7Ccity%3D4274%7CcompleteCityCode%3D4274; JSESSIONID=D2837E6300E8B52D04E29658BEF51FD8-n2.32211; semAttributesCookie=Direct%23; _clck=9e3m43%7C2%7Cfwt%7C0%7C1993; _clsk=1mxy7ui%7C1750100591293%7C1%7C1%7Cv.clarity.ms%2Fcollect; SS_RMB=; cityNameTTvl=Kolhapur; userNTrackId=ac3f1ec3-48c5-4d6d-823a-50112229d4f1; NOEU=new; rs-data=%5B%7B%22searchParams%22%3A%7B%22city%22%3A%22Kolhapur%22%2C%22ltName%22%3Anull%2C%22cityCode%22%3A%224274%22%2C%22ltCode%22%3Anull%2C%22category%22%3A%22Buy%22%2C%22propTy%22%3A%22Flat%2C%20House%2FVilla%22%7D%2C%22bhk%22%3Anull%2C%22propCt%22%3A%22277%22%2C%22url%22%3A%22https%3A%2F%2Fmagicbricks.com%2Fproperty-for-sale%2Fresidential-real-estate%3F%26proptype%3DMultistorey-Apartment%2CBuilder-Floor-Apartment%2CPenthouse%2CStudio-Apartment%2CResidential-House%2CVilla%26cityName%3DKolhapur%26inputListings%3DI%26page%3D4%26groupstart%3D90%26offset%3D0%26maxOffset%3D2%26sortBy%3DpremiumRecent%26postedSince%3D-1%26isNRI%3DN%26multiLang%3Den%22%2C%22budMin%22%3Anull%2C%22budMax%22%3Anull%2C%22date%22%3A%222025-06-17T00%3A34%3A16Z%22%2C%22propCat%22%3A%22Residential%22%7D%2C%7B%22searchParams%22%3A%7B%22city%22%3A%22Mumbai%22%2C%22ltName%22%3Anull%2C%22cityCode%22%3A%224320%22%2C%22ltCode%22%3Anull%2C%22category%22%3A%22Buy%22%2C%22propTy%22%3A%22Flat%2C%20House%2FVilla%22%7D%2C%22bhk%22%3Anull%2C%22propCt%22%3A%2214460%22%2C%22url%22%3A%22https%3A%2F%2Fwww.magicbricks.com%2Fproperty-for-sale%2Fresidential-real-estate%3Fproptype%3DMultistorey-Apartment%2CBuilder-Floor-Apartment%2CPenthouse%2CStudio-Apartment%2CResidential-House%2CVilla%26Locality%3D%26cityName%3DMumbai%26category%3DS%26parameter%3Drel%26hideviewed%3DN%26ListingsType%3DI%26filterCount%3D3%26incSrc%3DY%26fromSrc%3DhomeSrc%22%2C%22budMin%22%3Anull%2C%22budMax%22%3Anull%2C%22date%22%3A%222025-06-16T23%3A31%3A22Z%22%2C%22propCat%22%3A%22Residential%22%7D%2C%7B%22searchParams%22%3A%7B%22city%22%3A%22Kolhapur%22%2C%22ltName%22%3Anull%2C%22cityCode%22%3A%224274%22%2C%22ltCode%22%3Anull%2C%22category%22%3A%22Rent%22%2C%22propTy%22%3A%22Flat%22%7D%2C%22bhk%22%3Anull%2C%22propCt%22%3A%2287%22%2C%22url%22%3A%22https%3A%2F%2Fmagicbricks.com%2Fproperty-for-rent%2Fresidential-real-estate%3F%26proptype%3DMultistorey-Apartment%2CBuilder-Floor-Apartment%2CPenthouse%2CStudio-Apartment%2CService-Apartment%26cityName%3DKolhapur%26page%3D3%26groupstart%3D60%26offset%3D0%26maxOffset%3D5%26sortBy%3DpremiumRecent%26postedSince%3D-1%26isNRI%3DN%26multiLang%3Den%22%2C%22budMin%22%3Anull%2C%22budMax%22%3Anull%2C%22date%22%3A%222025-06-16T22%3A22%3A36Z%22%2C%22propCat%22%3A%22Residential%22%7D%2C%7B%22searchParams%22%3A%7B%22city%22%3A%22Mumbai%22%2C%22ltName%22%3Anull%2C%22cityCode%22%3A%224320%22%2C%22ltCode%22%3Anull%2C%22category%22%3A%22Rent%22%2C%22propTy%22%3A%22Flat%22%7D%2C%22bhk%22%3Anull%2C%22propCt%22%3A%2222427%22%2C%22url%22%3A%22https%3A%2F%2Fmagicbricks.com%2Fproperty-for-rent%2Fresidential-real-estate%3F%26proptype%3DMultistorey-Apartment%2CBuilder-Floor-Apartment%2CPenthouse%2CStudio-Apartment%2CService-Apartment%26cityName%3DMumbai%26page%3D2%26groupstart%3D30%26offset%3D0%26maxOffset%3D148%26sortBy%3DpremiumRecent%26postedSince%3D-1%26isNRI%3DN%26multiLang%3Den%22%2C%22budMin%22%3Anull%2C%22budMax%22%3Anull%2C%22date%22%3A%222025-06-16T13%3A23%3A20Z%22%2C%22propCat%22%3A%22Residential%22%7D%5D; _gat_UA-492553-10=1; _ga_Y3D9LD1B01=GS2.1.s1750100588$o3$g1$t1750100656$j60$l0$h0'
+    }
+
+    response = requests.request("GET", url, headers=headers, data=payload)
+
+    l0 = response.json()
+    
+    prop_list = prop_list + l0['resultList']
+
+    page = page + 1
+    groupstart = groupstart + 30
+    time.sleep(np.random.randint(2,3))
+
+with open ("Database/prop_list.pkl","wb") as file:
+    pickle.dump(prop_list,file=file)
+
+print(len(prop_list))
+
+
+    
+
